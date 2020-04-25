@@ -1,0 +1,2 @@
+# flutter_server_client
+基于网易云信sdk的Flutter聊天脚手架
