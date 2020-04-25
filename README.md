@@ -6,3 +6,15 @@
 ### key修改地方
 ![iOS](./iOS_key.png)
 ![Flutter](./flutter_key.png)
+
+### iOS效果图
+![iOS](./login_iOS.png)
+![iOS](./session_iOS.png)
+![iOS](./emoji_iOS.png)
+![iOS](./choosepic_iOS.png)
+
+### Android效果图
+![Android](./login_Android.png)
+![Android](./session_Android.png)
+![Android](./emoji_Android.png)
+![Android](./choosepic_Android.png)
