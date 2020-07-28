@@ -8,13 +8,13 @@
 ![Flutter](./flutter_key.png)
 
 ### iOS效果图
-![iOS](./login_iOS.png)
-![iOS](./session_iOS.png)
-![iOS](./emoji_iOS.png)
-![iOS](./choosepic_iOS.png)
+![iOS](./login_ios.png)
+![ios](./session_ios.png)
+![ios](./emoji_ios.png)
+![ios](./choosepic_ios.png)
 
 ### Android效果图
-![Android](./login_Android.png)
-![Android](./session_Android.png)
-![Android](./emoji_Android.png)
-![Android](./choosepic_Android.png)
+![Android](./login_android.png)
+![Android](./session_android.png)
+![Android](./emoji_android.png)
+![Android](./choosepic_android.png)
